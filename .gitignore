@@ -1,0 +1,26 @@
+# Dependências
+node_modules/
+vendor/
+
+# Arquivos de ambiente
+.env
+
+# Logs
+*.log
+
+# Cache
+.cache/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.swp
