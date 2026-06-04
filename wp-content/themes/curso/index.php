@@ -3,13 +3,13 @@
 
     <div class="content-area">
         <main class="site-main">
-            <section class="slide"></section>
-            <section class="services"></section>
+            <section class="slide">Slide</section>
+            <section class="services">Serviços</section>
             <section class="middle-area">
-                <aside class="sidebar"></aside>
-                <div class="news"></div>
+                <aside class="sidebar">Barra Lateral</aside>
+                <div class="news">Notícias</div>
             </section>
-            <section class="map"></section>
+            <section class="map">Mapa</section>
         </main>
 
 <?php get_footer(); ?>
