@@ -31,3 +31,10 @@ add_action('wp_enqueue_scripts', 'curso_assets');
 // Recursos básicos do tema
 add_theme_support('title-tag');
 add_theme_support('post-thumbnails');
+
+
+// Registrando nossos menus
+
+register_nav_menus(array(
+    'my_main_menu' => __('Menu Principal')
+));
